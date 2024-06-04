@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\lenov\\OneDrive\\Desktop\\C#\\.Net\\Homeworks\\Homework 33\\Restaurant Management System\\WebApi\\wwwroot\\images\\05d6b01a-e647-45ad-ad2f-61cc0f5a0a70.jpg",
+      "PackagePath": "staticwebassets\\images\\05d6b01a-e647-45ad-ad2f-61cc0f5a0a70.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenov\\OneDrive\\Desktop\\C#\\.Net\\Homeworks\\Homework 33\\Restaurant Management System\\WebApi\\wwwroot\\images\\11cfae30-5984-413d-8337-00c7f95ba4b5.png",
+      "PackagePath": "staticwebassets\\images\\11cfae30-5984-413d-8337-00c7f95ba4b5.png"
+    },
+    {
+      "Id": "C:\\Users\\lenov\\OneDrive\\Desktop\\C#\\.Net\\Homeworks\\Homework 33\\Restaurant Management System\\WebApi\\wwwroot\\images\\8d974c6e-6892-43bf-be5c-39ae064a95b5.png",
+      "PackagePath": "staticwebassets\\images\\8d974c6e-6892-43bf-be5c-39ae064a95b5.png"
+    },
+    {
+      "Id": "C:\\Users\\lenov\\OneDrive\\Desktop\\C#\\.Net\\Homeworks\\Homework 33\\Restaurant Management System\\WebApi\\wwwroot\\images\\b2aed4bc-89ec-483e-87ff-e47aca314cbd.jpeg",
+      "PackagePath": "staticwebassets\\images\\b2aed4bc-89ec-483e-87ff-e47aca314cbd.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\lenov\\OneDrive\\Desktop\\C#\\.Net\\Homeworks\\Homework 33\\Restaurant Management System\\WebApi\\wwwroot\\images\\c61492ea-0355-44f2-9b5e-0c07396cd063.png",
+      "PackagePath": "staticwebassets\\images\\c61492ea-0355-44f2-9b5e-0c07396cd063.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebApi.props",
+      "PackagePath": "build\\WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApi.props",
+      "PackagePath": "buildMultiTargeting\\WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApi.props",
+      "PackagePath": "buildTransitive\\WebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
